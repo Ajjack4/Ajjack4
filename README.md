@@ -48,12 +48,9 @@
   ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
   ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
   ![TypeScript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=typescript)
-  
   ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge)
   ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
-  
-  
   ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
   ![AWS](https://img.shields.io/badge/python-000?style=for-the-badge&logo=awsamplify)
   
