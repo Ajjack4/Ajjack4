@@ -52,7 +52,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6&style=for-the-badge)
   ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
   ![Neovim](https://img.shields.io/badge/Neovim-000?logo=neovim&style=for-the-badge)
-  ![AWS](https://img.shields.io/badge/python-000?style=for-the-badge&logo=awsamplify)
+  ![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=awsamplify)
   
 
 
