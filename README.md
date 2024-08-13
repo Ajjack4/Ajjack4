@@ -42,7 +42,7 @@
   ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) 
   ![Reactjs](https://img.shields.io/badge/Reactjs-000?style=for-the-badge&logo=react) 
   ![Go](https://img.shields.io/badge/go-000?style=for-the-badge&logo=go) 
-  ![Docker](https://img.shields.io/badge/go-000?style=for-the-badge&logo=docker)
+  ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes)
   ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) 
   ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=postgresql)
