@@ -10,7 +10,7 @@
 
 </div>
 
-- 🔭 I’m currently working on [Seekerra](https://github.com/Ajjack4/Seekerra) (Checkout daily progress on [Twitter](https://x.com/Ajjack404))
+- 🔭 I’m currently working on [Seekerra](https://github.com/Ajjack4/Seekerra) (Checkout weekly progress on [Twitter](https://x.com/Ajjack404))
 
 - 🌱 I’m currently learning **Golang**
 
