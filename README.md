@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 Checkout my Portfolio at [https://ajjack4.github.io/Portfolio/](https://ajjack4.github.io/Portfolio/)
+- 👨‍💻 Checkout my Portfolio at [https://ajjack4.github.io/PortfolioV1/](https://ajjack4.github.io/PortfolioV1/)
 
 - 💬 Ask me about **MicroServices, C++, Docker, Kubernetes**
 <br>
