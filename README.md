@@ -61,23 +61,6 @@
 
 </p>
 
-## 📈 Stats
-<p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajjack4&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajjack4&theme=tokyonight" />
-</p>
-
-<div align="center">
-
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajjack4&theme=tokyonight" />
-
-</br>
-</br>
-
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-
-</div>
 
 
 
