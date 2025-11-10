@@ -10,9 +10,9 @@
 
 </div>
 
-- 🔭 I’m currently working on [Seekerra](https://github.com/Ajjack4/Seekerra) 
+- 🔭 I’m currently working on [Serra Ai](https://github.com/Ajjack4/Serra-Ai) 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 Checkout my Portfolio at [https://ajjack4.github.io/PortfolioV1/](https://ajjack4.github.io/PortfolioV1/)
 
